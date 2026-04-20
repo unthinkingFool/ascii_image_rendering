@@ -121,19 +121,6 @@ src/
 
 ---
 
-## 🌐 Deployment
-
-This app deploys for **free** on [Vercel](https://vercel.com):
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) → **Add New Project**
-3. Import your GitHub repository
-4. Click **Deploy** — done!
-
-Vercel provides automatic HTTPS (required for camera access) and global CDN at zero cost.
-
----
-
 ## 📄 License
 
 MIT — feel free to use, modify, and distribute.
